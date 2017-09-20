@@ -16,9 +16,9 @@ paper1:
    author: 
    - firstname lastname
    hid:
-   - 202
-   title: Big data analytics in Weather forecasting.
-   abstract: This paper will cover how big data can be useful in weather forecasting.
+   - 345
+   title: Big data analytics in the entertainment industry.
+   abstract: This paper will cover how big data analysis is changing the film and entertainment industry.
    url: https://github.com/bigdata-i523/sample-hid000/paper1/paper1.pdf
    type: latex
    ```
