@@ -3,7 +3,7 @@
 # Owner
 
 ```
-owner:Wood, Ross
+owner:
     hid: 345
     name: Wood, Ross
     url: https://github.com/bigdata-i523/hid345
