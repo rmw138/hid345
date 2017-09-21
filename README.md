@@ -6,7 +6,7 @@
 owner:
     hid: 345
     name: Wood, Ross
-    url: https://github.com/bigdata-i523/sample-hid345
+    url: https://github.com/bigdata-i523/hid345
 ```
     
 # Paper 1
