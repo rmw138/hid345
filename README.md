@@ -19,8 +19,8 @@ paper1:
    - 345
    title: Big data analytics in the entertaiment industry.
    abstract: This paper will cover how big data analysis is influencing the entertainment industry.
-   url: https://github.com/bigdata-i523/sample-hid000/paper1/paper1.pdf
-   type: latex
+   url: https://github.com/bigdata-i523/hid345/paper1/paper1.pdf
+   type: word
    ```
    
 # Paper 2
@@ -28,11 +28,11 @@ paper1:
 ```
 paper2:
    author: 
-   - Gregor von Laszewski
+   - Ross Wood
    hid:
-   - 000
-   title: This is my paper about the other abc
-   abstract: This paper showcases tis and that and the other in regards to abc
+   - 345
+   title: Big Data Analytics and influence on althetics.
+   abstract: Looking at how big data is influencing people getting in shape with athletic wear.
    url: https://github.com/bigdata-i523/sample-hid000/paper2/paper2.pdf   
    type: word
 ```
