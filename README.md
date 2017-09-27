@@ -14,12 +14,12 @@ owner:
 ```
 paper1:
    author: 
-   - firstname lastname
+   - Ross Wood
    hid:
-   - 202
-   title: Big data analytics in Weather forecasting.
-   abstract: This paper will cover how big data can be useful in weather forecasting.
-   url: https://github.com/bigdata-i523/sample-hid000/paper1/paper1.pdf
+   - 345
+   title: Big data analytics and journalism.
+   abstract: This paper will cover how big data analytics is changing the field of journalism.
+   url: https://github.com/bigdata-i523/sample-hid345/paper1/paper1.pdf
    type: latex
    ```
    
