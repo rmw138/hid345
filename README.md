@@ -18,10 +18,13 @@ paper1:
    hid:
    - 345
    title: Big data analytics in the entertaiment industry.
-   abstract: This paper will cover how big data analysis is influencing the entertainment industry.
+   abstract: >
+      This paper will cover how big data analysis is influencing the
+      entertainment industry. 
    url: https://github.com/bigdata-i523/hid345/paper1/paper1.pdf
    type: word
-   ```
+   chapter: Media
+```
    
 # Paper 2
 
