@@ -17,3 +17,4 @@
 * 09/18/17 Began researching new articles for paper 1
 * 09/25/17 Wrote paper 1 rough draft
 * 10/03/17 Editing paper one - learning sharelatex
+* 10/05/17 Final Changes
