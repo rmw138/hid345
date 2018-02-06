@@ -1,0 +1,107 @@
+---
+owner:
+    hid: 345
+    name: Ross Wood
+    url: https://github.com/bigdata-i523/hid345
+paper1:
+    abstract: >
+        Social media has changed the way people get information,
+        disseminate information, communicate, and stay in touch with
+        others, both online and in the real world. As more and more
+        people from different age groups and socioeconomic backgrounds
+        begin adopting social media and becoming active users, data is
+        being created at a geometric rate. The analysis of all this
+        data being generated can be used in a myriad of different
+        ways, including nefarious ones. It is possible to analyze the
+        digital footprint of social media users in order to accurately
+        target enormous swaths of a population with propaganda,
+        misinformation, and deception which have been created to cater
+        to the specific population's social or political bias.
+    author:
+        - Ross Wood
+    chapter: Media
+    hid:
+        - 345
+    status: 100% re-review on 10/25/17
+    title: Big Data Dangers Weaponizing Social Media
+    url: https://github.com/bigdata-i523/hid345/blob/master/paper1
+paper2:
+    review: Nov 6 2017
+    abstract: >
+        As the world becomes more technologically advanced, more and
+        more work is being done on computers digitally versus in the
+        real world physically. This shift in how work is done is
+        creating a situation where huge swaths of people are sitting
+        down for longer periods of time than is medically recommended
+        for healthy living. For many, this has created the need for
+        more exercise and athleticism than what one typically gets in
+        a normal day. This occupational atrophy is one of the driving
+        forces in the development of technology that monitors and
+        generates data of the user's day-to-day physical activity and
+        vital signs. All this new data being created is helping make
+        improvements in the lives of those with sedentary jobs, while
+        also revealing new techniques and applications for already
+        existing training or exercise programs. The data is being
+        generated at an increasing rate from the growing number of
+        users who track their activity with the use of sports
+        trackers, smart clothing or athletic wear, and mobile
+        phones. The applications of this data are not limited to
+        improving the health of office workers and other employees
+        whose jobs or lives require low physical activity. The
+        datafication of physical fitness and activity is also changing
+        the way professional athletes and coaches approach their
+        training regiments, as well as having military applications in
+        regards to training personnel.
+    author:
+        - Ross Wood
+    chapter: Health
+    hid:
+        - 345
+    status: 100%
+    title: How the Datafication of Activity is Improving Human Health
+    url: https://github.com/bigdata-i523/hid345/blob/master/paper2
+project:
+    review: Dec 4 2017
+    abstract: >
+        As the human population swells to staggering numbers that
+        historians of yesteryear could not imagine, one very important
+        question seems to keep coming up over and over again. How do
+        we feed all of these people? Thankfully, humans are
+        intelligent beasts and are figuring out ways to farm and
+        produce larger amounts of food using methods and techniques
+        more sophisticated than ones humanity has relied on in the
+        past. The party is just getting started as farming meets the
+        era of big data. As more and more data is generated from
+        farming, techniques and processes become more sophisticated,
+        cleaner, and more efficient.  The kind of data being analyzed
+        to improve agricultural endeavours comes in many forms, and
+        can be statistical data like amount of food grown using how
+        much land, actual data generated from using farm tools and
+        other smart farming equipment, or any other kind of
+        agricultural activity that can produce datafies actions and
+        procedures. However, data science is helping in other ways,
+        too, as scientists and engineers are taking advantage of all
+        this newly available data and helping create new technology to
+        improve food production and increase yields With all this new
+        information available, new farming endeavours are being
+        undertaken. Farming within closed systems such as urban or
+        vertical farming, practicing precision agricultural
+        techniques, or even laboratories using genetics data on
+        different plant strains to crossbreed the various plant
+        strains in order to produce new breeds that can grow in the
+        harshest of environments while using minimal resources. As the
+        population grows, we are finding that not only is the
+        production of food vital, but also that sustainable farming
+        techniques are of paramount importance for long term
+        agricultural need. Data Science and its applications are most
+        definitely changing the way people produce food and the very
+        nature of farming itself.
+    author:
+        - Ross Wood
+    chapter: Environment
+    hid:
+        - 345
+    status: 100%
+    title: "Agricultural Data Science"
+    type: paper
+    url: https://github.com/bigdata-i523/hid345/tree/master/project
